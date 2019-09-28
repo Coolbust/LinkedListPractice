@@ -1,6 +1,4 @@
 //Sidney Robinson
-//CMPS12B/M
-//simrobin 1643731
 //List.h(Header file for list.c)
 
 #include <stdio.h>
