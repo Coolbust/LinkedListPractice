@@ -1,6 +1,4 @@
 //Sidney Robinson
-//CMPS12B/M
-//simrobin 1643731
 //listUtil.c
 #include <stdio.h>
 #include <stdlib.h>
