@@ -1,6 +1,4 @@
 //Sidney Robinson
-//CMPS12B/M
-//1643731 simrobin
 //listUtil.h
 
 
