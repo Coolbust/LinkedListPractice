@@ -1,6 +1,4 @@
 #Sidney Robinson
-#simrobin 1643731
-#CMPS12B/M
 #Makefile for list.h and list.c with macros
 
 FLAGS = -std=c99 -Wall
