@@ -1,6 +1,4 @@
 //Sidney Robinson
-//CMPS12B/M
-//simrobin 1643731
 //List.c file that contains the fleshed out functions of list.h
 
 #include <stdio.h>
